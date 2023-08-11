@@ -1,0 +1,62 @@
+ThinkChip-S3 Micro
+==================
+
+.. image:: _static/thinkchip-s3-micro.jpg
+   :align: center
+   :alt: ThinkChip-S3 Micro
+
+Description:
+------------
+
+The ThinkChip-S3 Micro serves as the brain for robots that fit the thinkchip-micro design. It uses the ESP32-S3-WROOM-1U-N16R8 chipset to power itself. Despite its small size, this microcontroller packs a punch, helping robots work smoothly. It's designed to make sure robots can easily be controlled and communicate well with their surroundings.
+
+Specifications:
+---------------
+
+- **Chipset:** ESP32-S3-WROOM-1U-N16R8
+- **Processor:** Xtensa® Dual-core 32-bit LX7 microprocessor
+- **Clock Speed:** Up to 240 MHz
+- **Wireless Connectivity:** Wi-Fi 802.11b/g/n and Bluetooth 5.0
+- **Flash Memory:** 16 MB
+- **RAM:** 8 MB SRAM
+- **GPIO Pins:** 38
+- **Analog Inputs:** 8 (12-bit ADC)
+- **I/O Interfaces:** UART, SPI, I2C, I2S, PWM
+- **Operating Voltage:** 3.3V
+- **Power Consumption:** Varies based on usage
+- **Operating Temperature:** -40°C to +85°C
+- **Dimensions:** 25.5 mm x 18.0 mm
+
+Features:
+---------
+
+- Compact form factor suitable for space-constrained projects.
+- Dual-core processing for multitasking and performance.
+- High-speed wireless communication with Wi-Fi and Bluetooth capabilities.
+- Ample flash memory for program storage.
+- Versatile GPIO pins and interfaces for various sensor and peripheral connections.
+- Low-power modes for energy-efficient operations.
+- Reliable operation in a wide range of temperatures.
+
+Datasheet:
+----------
+
+The detailed specifications and pinout information can be found in the official datasheet. [Download Datasheet (PDF)](link_to_datasheet.pdf)
+
+Getting Started:
+----------------
+
+To get started with the ThinkChip-S3 Micro, check out our [Getting Started Guide](getting_started.rst) for step-by-step instructions on setting up and programming the module.
+
+Example Code:
+-------------
+
+Explore our collection of [example code](example_code.rst) showcasing the capabilities of the ThinkChip-S3 Micro in different applications.
+
+Buy Now:
+--------
+
+The ThinkChip-S3 Micro is available for purchase on Amazon. [Buy on Amazon](link_to_amazon_product_page)
+
+![Amazon Logo](amazon_logo.png)
+
