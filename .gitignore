@@ -1,0 +1,31 @@
+# Compiled output
+_build/
+dist/
+*.egg-info/
+
+# Cache and temporary files
+.cache/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Sphinx generated files
+docs/_build/
+docs/api/
+
+# Jupyter notebooks and other interactive documentation
+*.ipynb
+*.ipynb_checkpoints/
+.notebooks/
+.notebook_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Miscellaneous
+*.swp
+.DS_Store
+Thumbs.db
+
