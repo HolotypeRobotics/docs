@@ -5,13 +5,13 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+import os
+import sys
 
 project = 'readthedocs'
 copyright = '2023, josh Collins'
 author = 'Josh Collins'
 release = '1'
-
-import sphinx_rtd_theme
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -21,6 +21,7 @@ extensions = [
         ]
 
 templates_path = ['_templates']
+source_suffix='.rst'
 exclude_patterns = []
 
 
@@ -30,3 +31,5 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+master_doc='index'
