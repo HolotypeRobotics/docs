@@ -8,7 +8,7 @@
 
 project = 'readthedocs'
 copyright = '2023, josh Collins'
-author = 'josh Collins'
+author = 'Josh Collins'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
